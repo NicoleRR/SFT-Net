@@ -1,0 +1,4 @@
+numpy==1.19.5
+scikit_learn==1.0.2
+scipy==1.5.4
+visdom==0.1.8.9
